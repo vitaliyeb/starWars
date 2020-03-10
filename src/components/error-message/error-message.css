@@ -1,0 +1,17 @@
+
+.errorMessage{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.errorMessage__image{
+    max-width: 200px;
+    margin-bottom: 30px;
+}
+
+.errorMessage__description{
+    width: 200px;
+    text-align: justify;
+}
